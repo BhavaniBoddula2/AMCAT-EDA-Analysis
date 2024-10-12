@@ -14,6 +14,47 @@ Number of Rows: [ 3998 ]
 
 Number of Columns: [ 39 ]
 
+ #   Column                 Non-Null Count  Dtype         
+---  ------                 --------------  -----         
+ 0   ID                     3998 non-null   int64         
+ 1   Salary                 3998 non-null   int64         
+ 2   DOJ                    3998 non-null   datetime64[ns]
+ 3   DOL                    3998 non-null   object        
+ 4   Designation            3998 non-null   object        
+ 5   JobCity                3998 non-null   object        
+ 6   Gender                 3998 non-null   object        
+ 7   DOB                    3998 non-null   datetime64[ns]
+ 8   10percentage           3998 non-null   float64       
+ 9   10board                3998 non-null   object        
+ 10  12graduation           3998 non-null   int64         
+ 11  12percentage           3998 non-null   float64       
+ 12  12board                3998 non-null   object        
+ 13  CollegeID              3998 non-null   int64         
+ 14  CollegeTier            3998 non-null   int64         
+ 15  Degree                 3998 non-null   object        
+ 16  Specialization         3998 non-null   object        
+ 17  collegeGPA             3998 non-null   float64       
+ 18  CollegeCityID          3998 non-null   int64         
+ 19  CollegeCityTier        3998 non-null   int64         
+ 20  CollegeState           3998 non-null   object        
+ 21  GraduationYear         3998 non-null   int64         
+ 22  English                3998 non-null   int64         
+ 23  Logical                3998 non-null   int64         
+ 24  Quant                  3998 non-null   int64         
+ 25  Domain                 3998 non-null   float64       
+ 26  ComputerProgramming    3998 non-null   int64         
+ 27  ElectronicsAndSemicon  3998 non-null   int64         
+ 28  ComputerScience        3998 non-null   int64         
+ 29  MechanicalEngg         3998 non-null   int64         
+ 30  ElectricalEngg         3998 non-null   int64         
+ 31  TelecomEngg            3998 non-null   int64         
+ 32  CivilEngg              3998 non-null   int64         
+ 33  conscientiousness      3998 non-null   float64       
+ 34  agreeableness          3998 non-null   float64       
+ 35  extraversion           3998 non-null   float64       
+ 36  nueroticism            3998 non-null   float64       
+ 37  openess_to_experience  3998 non-null   float64 
+
 Columns:
 
 Salary: The salary offered to the candidates.
